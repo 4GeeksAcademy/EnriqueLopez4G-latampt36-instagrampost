@@ -9,7 +9,6 @@ body {
 }
 .post-header {
     width:100%;
-    height: 10%;
     padding:10px;
 }
 .post-header, .post-icons {
@@ -47,13 +46,13 @@ h2,h3 {
     height: 400px; 
     object-fit: cover;
 }
-.roboto-bold {
+.robotoBold {
     font-family: "Roboto", sans-serif;
     font-weight: 700;
     font-style: normal;
   }
   
-  .roboto-thin {
+  .robotoThin {
     font-family: "Roboto", system-ui;
     font-weight: 300;
     font-style: normal;
